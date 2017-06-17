@@ -19,7 +19,7 @@ The goal is to translate the original code I wrote, which was in FORTRAN, into p
 
 <b>Why Now?</b>
 
-I have been sitting on this work for close to six years.  As I was finishing my graduate research I got a job and moved out of Connecticut and unfortunately I never really followed up on my work that I had spent years working on with Dr. Robert Cromley. In 2016 I one of my biggest personal goals was <a href ="http://www.gisdoctor.com/site/2016/01/11/2016/">to get better at what I do</a>. This project is apart of my personal goals for this year! I thought github would be a great place for me to rebuild this project and share it with the world.
+I have been sitting on this work for close to six years.  As I was finishing my graduate research I got a job and moved out of Connecticut and unfortunately I never really followed up on my work that I had spent years working on with Dr. Robert Cromley. In 2016 I one of my biggest personal goals was <a href ="http://www.benjaminspaulding.com/2016/01/11/2016/">to get better at what I do</a>. This project is apart of my personal goals for this year! I thought github would be a great place for me to rebuild this project and share it with the world.
 
 <b>Notes</b>
 
